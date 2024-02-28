@@ -12,6 +12,7 @@
 .main {
     background-color: rgba(30, 255, 165, 0.833);
     grid-area: main;
+    padding-left: 30px;
 }
 
 .section{
